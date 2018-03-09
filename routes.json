@@ -1,0 +1,7 @@
+{
+  "/api/orders": "/orders",
+  "/api/customers": "/customers",
+  "/api/customers/9vgx3bd0-2ras-wbq2-e8bw-yqgwaerd1sef": "/customers/9vgx3bd0-2ras-wbq2-e8bw-yqgwaerd1sef",
+  "/api/customers\\?id=:id": "/customers/:id",
+  "/api/contacts": "/contacts"
+}

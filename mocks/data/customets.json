@@ -1,0 +1,24 @@
+{
+  "customers": [
+      {
+        "id": "9vgx3bd0-2ras-wbq2-e8bw-yqgwaerd1sef",
+        "title": "customer 1",
+        "url": "esse proident ullamco ad sint"
+      },
+    {
+      "id": "buaqsugc-imw1-g7ck-fyyy-y4sfvr6y057w",
+      "title": "customer 2",
+      "url": "est tempor"
+    },
+    {
+      "id": "f95v9adf-5z0u-fn6t-ip99-g3i74r122gx5",
+      "title": "customer 3",
+      "url": "irure ut mollit Lorem"
+    },
+    {
+      "id": "vx6kyb6j-dia3-q1eq-kxhl-mo6bj76r3nzp",
+      "title": "customer 4",
+      "url": "ipsum culpa"
+    }
+    ]
+}

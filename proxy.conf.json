@@ -1,0 +1,16 @@
+{
+  "/api/customers": {
+    "target": "http://localhost:3000/customers",
+    "secure": false
+  },
+
+  "/api/contacts": {
+    "target": "http://localhost:3000/contacts",
+    "secure": false,
+    "pathRewrite": { "^/lines": "/contacts" }
+  },
+  "/api/orders": {
+    "target": "http://localhost:3000/orders",
+    "secure": false
+  }
+}
